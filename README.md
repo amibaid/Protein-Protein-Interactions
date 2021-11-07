@@ -1,4 +1,4 @@
-# protein-protein-interactions
+# Protein-Protein-Interactions
 
 <table class="tfo-notebook-buttons">
   <td>
