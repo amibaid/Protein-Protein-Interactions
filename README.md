@@ -11,3 +11,5 @@
 
 ### Description
 This is my summer research project from UCSF AI4ALL. This project uses machine learning to predict protein-protein interactions between the human proteome and the SARS-CoV2 virus proteins using previously known virus-human protein interaction information between human and Zika virus proteins and sequence alignment.
+
+[PLOS Computational Biology Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009719)
